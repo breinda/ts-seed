@@ -1,0 +1,33 @@
+{
+	"name": "ts-seed",
+	"version": "1.0.0",
+	"description": "Barebones seed files for TypeScript applications.",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/breinda/ts-seed.git"
+	},
+	"keywords": [
+		"seed",
+		"typescript",
+		"node",
+		"ts"
+	],
+	"author": "breinda",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/breinda/ts-seed/issues"
+	},
+	"homepage": "https://github.com/breinda/ts-seed#readme",
+	"devDependencies": {
+		"prettier": "3.0.1",
+		"ts-node": "^10.9.1",
+		"typescript": "^5.1.6"
+	},
+	"dependencies": {
+		"jsdom": "^22.1.0"
+	}
+}
