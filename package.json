@@ -27,12 +27,12 @@
 	},
 	"homepage": "https://github.com/breinda/ts-seed#readme",
 	"devDependencies": {
-		"@tsconfig/node-lts": "^22.0.2",
-		"prettier": "3.6.2",
+		"@tsconfig/node-lts": "^24.0.0",
+		"prettier": "3.8.0",
 		"ts-node": "^10.9.2",
 		"typescript": "^5.9.3"
 	},
 	"dependencies": {
-		"jsdom": "^27.1.0"
+		"jsdom": "^27.4.0"
 	}
 }
